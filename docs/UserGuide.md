@@ -1,53 +1,21 @@
 ---
 layout: page
-title: User Guide
+title: CapCut User Manual
 ---
-**Teacher’s Pet** is a desktop application for managing contacts of students and classes, optimised for use via a
-Command Line Interface (CLI) while still having the benefits of a Graphical User Interface (GUI). If you can type fast,
-Teacher’s Pet can get your contact and class management tasks done faster than traditional GUI apps.
+**CapCut** is a fun app that lets you edit videos! You can add cool effects, stickers, music, and even text to make your videos look awesome. It’s like having your own mini movie studio on your phone. You can cut parts of the video, make it faster or slower, and even add filters to make it look super cool. Once you're done, you can share it with your friends or post it online. It's easy to use, and you can be as creative as you want!
 
-**Teacher’s Pet** allows you to manage your schedule and keep track of your students.
-The app stores basic information about your students, such as `Name`, `Contact Number`, `Class Date` and more.
+This page will guide you through the basics of CapCut!
 
-Before you get started, you may want to read [how to get started with this User Guide](#reading-the-user-guide)!
-To get started with using our application, jump straight to the [Quick Start](#quick-start) section.
-For a full list of commands and detailed instructions, head to the [Features](#features) section.
-
-## Table of contents
-* [Quick Start](#quick-start)
-* [UI Overview](#ui-overview)
-* [Reading the User Guide](#reading-the-user-guide)
-    * [Command format](#notes-about-the-command-format)
-    * [Callouts](#callouts)
-* [Features](#features)
-    * [Viewing help: `help`](#viewing-help-help)
-    * [Adding a student: `add`](#adding-a-student-add)
-    * [Editing student details: `edit`](#editing-student-details-edit)
-    * [Marking a student: `mark`](#marking-a-student-mark)
-    * [Receiving money from a student: `pay`](#receiving-money-from-a-student-pay)
-    * [Viewing all students: `list`](#viewing-all-students-list)
-    * [Finding a student: `find`](#finding-a-student-find)
-      * [Find by Name](#find-by-name)
-      * [Find by Email](#find-by-email)
-      * [Find by Address](#find-by-address)
-      * [Find by Student's Contact Number](#find-by-students-contact-number)
-      * [Find by Next of Kin's Contact Number](#find-by-next-of-kins-contact-number)
-      * [Find by Class Date](#find-by-class-date)
-      * [Find by Tag](#find-by-tag)
-    * [Next available class](#next-available-class)
-    * [Sort displayed students: `sort`](#sort-the-displayed-students-sort)
-      * [Sort by Name](#sort-by-name)
-      * [Sort by Class](#sort-by-class-date)
-      * [Sort by Money Owed](#sort-by-money-owed)
-    * [Deleting a student: `delete`](#deleting-students-delete)
-    * [Clearing all student: `clear`](#clearing-all-student-clear)
-    * [Undo a command: `undo`](#undo-the-last-command-undo)
-    * [Exiting the program : `exit`](#exiting-the-program-exit)
-    * [Saving the data](#saving-the-data)
-    * [Editing the data file](#editing-the-data-file)
-* [FAQ](#faq)
-* [Command Summary](#command-summary)
-* [Prefix Summary](#prefix-summary)
+## 5 Easy Steps
+* [Download  & Install](#download-and-install)
+* [Create New Project](#create-new-project)
+* [Import Photos and Videos](#import-photos-and-videos)
+* [Edit Video](#edit-video)
+    * [Play and Pause](#play-and-pause)
+    * [Arranging clips](#arranging-clips)
+    * [Audio (Sound / Music)](#audio)
+    * [Text](#text)
+ * [Save and Export](#save-and-export)
 
 --------------------------------------------------------------------------------------------------------------------
 
