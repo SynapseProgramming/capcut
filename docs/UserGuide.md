@@ -53,36 +53,37 @@ Most frequently used tools are
 - and many more !
 <div markdown="span" class="alert alert-success">💡 **Tip:** Avoid using **Pro effects!** You won't be able to save your video
 </div>
-  ### Play/Pause Video
-  Press the **play** button to play/pause your video
-  ![PlayVideo](images/capcut_images/play_video.png)
-  ### Arranging Clips
-  1. Hold your clip
-  2. Drag it to the desired position
-  3. Release
-  ![ArrangeClips](images/capcut_images/arrange_clips.png)
 
-  ### Add Music
-  1. Choose the Audio Button
-  ![AddMusic1](images/capcut_images/add_music_1.png)
-  2. Click on sounds
-  ![AddMusic2](images/capcut_images/add_music_2.png)
-  3. Choose your favourite song
-  4. Click on the + icon
-  ![AddMusic3](images/capcut_images/add_music_3.png)
-  ### Add Text
-  1. Choose the Text Icon
-  ![TextIcon](images/capcut_images/text_icon.png)
-  2. Click the Add Text button
-  ![AddTextIcon](images/capcut_images/add_text_icon.png)
-  3. Type words
-  4. Choose your favourite style!
-  ![AddTextStyle](images/capcut_images/add_text_style.png)
+### Play/Pause Video
+Press the **play** button to play/pause your video
+![PlayVideo](images/capcut_images/play_video.png)
+### Arranging Clips
+1. Hold your clip
+2. Drag it to the desired position
+3. Release
+![ArrangeClips](images/capcut_images/arrange_clips.png)
+
+### Add Music
+1. Choose the Audio Button
+![AddMusic1](images/capcut_images/add_music_1.png)
+2. Click on sounds
+![AddMusic2](images/capcut_images/add_music_2.png)
+3. Choose your favourite song
+4. Click on the + icon
+![AddMusic3](images/capcut_images/add_music_3.png)
+### Add Text
+1. Choose the Text Icon
+![TextIcon](images/capcut_images/text_icon.png)
+2. Click the Add Text button
+![AddTextIcon](images/capcut_images/add_text_icon.png)
+3. Type words
+4. Choose your favourite style!
+![AddTextStyle](images/capcut_images/add_text_style.png)
 ## Save and Export
 1. Click on the export button
-  ![ExportButton](images/capcut_images/export_button.png)
+![ExportButton](images/capcut_images/export_button.png)
 2. Wait for 100% to appear. 
 3. Go to the photos app to view your video!
-   
+ 
 
 [↑ Back to top](#table-of-contents)
