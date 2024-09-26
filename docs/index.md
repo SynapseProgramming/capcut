@@ -14,7 +14,7 @@ Dive in and start your video-making adventure today!
 
 Quick links:
 * [User Manual](UserGuide.html)
-* [Lesson 1](watereffect.html)
+* [Lesson 1: Water Effect](watereffect.html)
 
 
 
