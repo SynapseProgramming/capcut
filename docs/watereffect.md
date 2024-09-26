@@ -19,7 +19,22 @@ Now that you have learnt the basics of CapCut, let's see how you can create your
 
 1.First video: Film your phone over the cup
 
+<iframe width="315" height="560" 
+src="https://www.youtube.com/embed/NfLe4gsJVQA?si=0nrCpwz8wbEFFzvQ" 
+title="YouTube video player" frameborder="0" 
+allow="accelerometer; autoplay; clipboard-write; encrypted-media;
+gyroscope; picture-in-picture;
+web-share"
+allowfullscreen></iframe>
+
 2.Second video: Film yourself pouring water into the cup
+<iframe width="315" height="560" 
+src="https://www.youtube.com/embed/m-gmXVgz2Bw" 
+title="YouTube video player" frameborder="0" 
+allow="accelerometer; autoplay; clipboard-write; encrypted-media;
+gyroscope; picture-in-picture;
+web-share"
+allowfullscreen></iframe>
 
 ---
 
