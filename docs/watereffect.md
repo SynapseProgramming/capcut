@@ -7,17 +7,11 @@ Now that you have learnt the basics of CapCut, let's see how you can create your
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4TjUayYWgG8?si=py27z8X_Vgi_pJkD&amp;start=12" title="YouTube video player" frameborder="0" allow="accelerometer;  clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 # Table Of Contents
-- [CapCut](#capcut)
-- [Table Of Contents](#table-of-contents)
-  - [Download and Install](#download-and-install)
-  - [Create New Project](#create-new-project)
-  - [Import Photos And Videos](#import-photos-and-videos)
-  - [Edit Video](#edit-video)
-    - [Play/Pause Video](#playpause-video)
-    - [Arranging Clips](#arranging-clips)
-    - [Add Music](#add-music)
-    - [Add Text](#add-text)
-  - [Save and Export](#save-and-export)
+- [Record 2 videos](#record-2-videos)
+- [Import first video](#import-first-video)
+- [Add overlay](#add-overlay)
+- [Adjust both videos](#adjust-both-videos)
+- [Apply masking (cover)](#apply-masking-(cover))
 
 --------------------------------------------------------------------------------------------------------------------
 
