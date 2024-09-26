@@ -6,7 +6,7 @@ title: Water Effect
 Now that you have learnt the basics of CapCut, let's see how you can create your own special effects!
 
 <iframe width="720" height="405"
-src="https://youtu.be/4TjUayYWgG8?si=py27z8X_Vgi_pJkD&t=12"
+src="https://youtu.be/4TjUayYWgG8?si=py27z8X_Vgi_pJkD&t=12">
 </iframe>
 
 # Table Of Contents
