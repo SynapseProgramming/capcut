@@ -1,11 +1,9 @@
-title: "Teacher's Pet"
+title: "Xinghua x NUS"
 theme: minima
 
 header_pages:
   - UserGuide.md
-  - DeveloperGuide.md
-  - AboutUs.md
-  - UserGuide_CS2101.md
+
 
 markdown: kramdown
 
