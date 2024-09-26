@@ -14,7 +14,6 @@ This page will guide you through the basics of CapCut!
   - [Create New Project](#create-new-project)
   - [Import Photos And Videos](#import-photos-and-videos)
   - [Edit Video](#edit-video)
-    - [Tips](#tips)
     - [Play/Pause Video](#playpause-video)
     - [Arranging Clips](#arranging-clips)
     - [Add Music](#add-music)
@@ -52,10 +51,8 @@ Most frequently used tools are
 - Audio (Sound / Music)
 - Text (Words)
 - and many more !
-
-  ### Tips
-  - Avoid using **Pro effects!**
-  - Won’t be able to **save** your video
+<div markdown="span" class="alert alert-success">💡 **Tip:** Avoid using **Pro effects!** You won't be able to save your video
+</div>
   ### Play/Pause Video
   Press the **play** button to play/pause your video
   ![PlayVideo](images/capcut_images/play_video.png)
