@@ -2,10 +2,12 @@
 layout: page
 title: Water Effect
 ---
-# CapCut
-**CapCut** is a fun app that lets you edit videos! You can add cool effects, stickers, music, and even text to make your videos look awesome. It’s like having your own mini movie studio on your phone. You can cut parts of the video, make it faster or slower, and even add filters to make it look super cool. Once you're done, you can share it with your friends or post it online. It's easy to use, and you can be as creative as you want!
+# Water Effect
+Now that you have learnt the basics of CapCut, let's see how you can create your own special effects!
 
-This page will guide you through the basics of CapCut!
+<iframe width="720" height="405"
+src="https://youtu.be/4TjUayYWgG8?si=py27z8X_Vgi_pJkD&t=12">
+</iframe>
 
 # Table Of Contents
 - [CapCut](#capcut)
@@ -22,7 +24,13 @@ This page will guide you through the basics of CapCut!
 
 --------------------------------------------------------------------------------------------------------------------
 
-## Download and Install
+## Record 2 videos
+
+1. First video: Film your phone over the cup
+<iframe width="720" height="405"
+src="https://drive.google.com/file/d/16mL8aNxOZC9NYLpjkMnLG5ZbPJdeDwjN/view?resourcekey">
+</iframe>
+3. Second video: Film yourself pouring water into the cup
 
 1. go to the apple app store
 2. search for CapCut
