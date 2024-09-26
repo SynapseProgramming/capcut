@@ -2,7 +2,6 @@
 layout: page
 title: Water Effect
 ---
-# Water Effect
 Now that you have learnt the basics of CapCut, let's see how you can create your own special effects!
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4TjUayYWgG8?si=py27z8X_Vgi_pJkD&amp;start=12" title="YouTube video player" frameborder="0" allow="accelerometer;  clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -25,70 +24,51 @@ Now that you have learnt the basics of CapCut, let's see how you can create your
 ## Record 2 videos
 
 1. First video: Film your phone over the cup
-<iframe width="720" height="405"
-src="https://drive.google.com/file/d/16mL8aNxOZC9NYLpjkMnLG5ZbPJdeDwjN/view?resourcekey">
-</iframe>
-3. Second video: Film yourself pouring water into the cup
 
-1. go to the apple app store
-2. search for CapCut
-3. Download and install the app!
-![CapCutAppStore](images/capcut_images/capcutstore.png)
+2. Second video: Film yourself pouring water into the cup
 
 ---
 
-## Create New Project
+## Import first video
 1. Open CapCut
 2. Click “+ New Project”
 ![CapCutNewProject](images/capcut_images/new_project.png)
-3. Click on allow access to all photos
-![AllowPhotos](images/capcut_images/allow_all_photos.png)
 
-## Import Photos And Videos
-1. Select photos and videos
-2. Click on "Add"
-![AllowPhotos](images/capcut_images/add_photos.png)
+3. Select your first video
+4. Click on "Add"
+<img width="189" alt="image" src="https://github.com/user-attachments/assets/412bb81e-45f1-41b7-9ed6-da28bcbca9ad">
 
-## Edit Video
-CapCut has many editing tools !
-Most frequently used tools are
-- Play and pause
-- Arranging clips
-- Audio (Sound / Music)
-- Text (Words)
-- and many more !
-<div markdown="span" class="alert alert-success">💡 **Tip:** Avoid using **Pro effects!** You won't be able to save your video
-</div>
-  ### Play/Pause Video
-  Press the **play** button to play/pause your video
-  ![PlayVideo](images/capcut_images/play_video.png)
-  ### Arranging Clips
-  1. Hold your clip
-  2. Drag it to the desired position
-  3. Release
-  ![ArrangeClips](images/capcut_images/arrange_clips.png)
 
-  ### Add Music
-  1. Choose the Audio Button
-  ![AddMusic1](images/capcut_images/add_music_1.png)
-  2. Click on sounds
-  ![AddMusic2](images/capcut_images/add_music_2.png)
-  3. Choose your favourite song
-  4. Click on the + icon
-  ![AddMusic3](images/capcut_images/add_music_3.png)
-  ### Add Text
-  1. Choose the Text Icon
-  ![TextIcon](images/capcut_images/text_icon.png)
-  2. Click the Add Text button
-  ![AddTextIcon](images/capcut_images/add_text_icon.png)
-  3. Type words
-  4. Choose your favourite style!
-  ![AddTextStyle](images/capcut_images/add_text_style.png)
-## Save and Export
-1. Click on the export button
-  ![ExportButton](images/capcut_images/export_button.png)
-2. Wait for 100% to appear. 
-3. Go to the photos app to view your video!
-   
+## Add overlay
+1. Click on "Add overlay"
+<img width="237" alt="image" src="https://github.com/user-attachments/assets/8797b806-0c0f-43ac-9849-552a2b9bdf0c">
+
+2. Choose your second video, then click "Add"
+<img width="239" alt="image" src="https://github.com/user-attachments/assets/73477326-8511-45ad-80a9-2bb3ec56461c">
+
+3. You should have 2 videos in your project!
+<img width="240" alt="image" src="https://github.com/user-attachments/assets/2528a573-95a7-43f9-ae24-5f86fddf5662">
+
+## Adjust both videos
+1. Make video bigger or smaller by tapping the image and dragging apart
+<img width="199" alt="image" src="https://github.com/user-attachments/assets/791e734e-c814-41de-a9ba-6a056d4f5bd4">
+
+2. Make the video duration shorter or longer by dragging the video
+<img width="239" alt="image" src="https://github.com/user-attachments/assets/05401cd3-ac7d-471e-a112-8bedd7b16642">
+
+## Apply masking (cover)
+1. Click "Mask"
+<img width="224" alt="image" src="https://github.com/user-attachments/assets/5d048594-f6e6-4c9b-b205-fa4e59f40c27">
+
+2. Click "Horizontal"
+<img width="223" alt="image" src="https://github.com/user-attachments/assets/3efd7663-5ef9-4d94-a230-b1b78d4c1b30">
+
+3. Click "Invert"
+<img width="222" alt="image" src="https://github.com/user-attachments/assets/9b659122-14d8-4bb5-86ea-86e7121aa68b">
+
+4. Slide the yellow line up or down!
+<img width="228" alt="image" src="https://github.com/user-attachments/assets/b3c68089-128a-4c6e-aba9-796add8b0e0d">
+
+## TADA, you have completed your first special effects. Good job! 👏
 
 [↑ Back to top](#table-of-contents)
