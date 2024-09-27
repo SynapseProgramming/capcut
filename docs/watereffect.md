@@ -40,11 +40,13 @@ allowfullscreen></iframe>
 
 ## Import first video
 1.Open CapCut
+
 2.Click “+ New Project”
    
 ![CapCutNewProject](images/capcut_images/new_project.png)
 
 3.Select your first video
+
 4.Click on "Add"
    
 <img width="189" alt="image" src="https://github.com/user-attachments/assets/412bb81e-45f1-41b7-9ed6-da28bcbca9ad">
